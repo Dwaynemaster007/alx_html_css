@@ -391,3 +391,14 @@ footer p {
         margin: 0 auto 20px;
     }
 }
+/* Small phones: stack the logo above the menu so the links don't overflow */
+@media (max-width: 480px) {
+    nav {
+        flex-direction: column;
+        gap: 12px;
+    }
+
+    nav ul {
+        gap: 20px;
+    }
+}
