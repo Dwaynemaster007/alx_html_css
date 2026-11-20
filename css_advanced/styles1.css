@@ -48,7 +48,7 @@ html, body {
 
 /* HEADER */
 header {
-  background: linear-gradient(rgba(7, 22, 41, 0.7), rgba(7, 22, 41, 0.7)), url('your-image.jpg') center/cover no-repeat;
+  background: linear-gradient(rgba(7, 22, 41, 0.7), rgba(7, 22, 41, 0.7)), url('images/Object.png') center/cover no-repeat;
   color: white;
   padding: 40px 0 80px;
   text-align: center;
